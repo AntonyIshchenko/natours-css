@@ -7,7 +7,7 @@
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
     "dev": "live-server"
   },
-  "author": "Antony",
+  "author": "Antony Ishchenko",
   "license": "ISC",
   "devDependencies": {
     "live-server": "^1.2.2",
